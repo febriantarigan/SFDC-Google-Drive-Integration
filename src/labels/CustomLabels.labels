@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>TXT_FILE_GENERATOR_EMAIL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>To email address for TXTFileGenerator class</shortDescription>
+        <value>test@gmail.com</value>
+    </labels>
+</CustomLabels>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>PC_Roche_FileUploaderBatch</members>
+        <members>PC_Roche_FileUploaderHandler</members>
+        <members>PC_Roche_FileUploaderHandlerTest</members>
+        <members>PC_Roche_FileUploaderScheduler</members>
+        <members>PC_Roche_FileUploaderSchedulerTest</members>
+        <members>PC_Roche_TxtFileGeneratorBatch</members>
+        <members>PC_Roche_TxtFileGeneratorHandler</members>
+        <members>PC_Roche_TxtFileGeneratorHandlerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>TXT_FILE_GENERATOR_EMAIL</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>GDriveForSalesforce.TW_FOC_Application_Form</members>
+        <members>GDriveForSalesforce.TW_TXT_File_Generator</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>GDriveForSalesforce__mdt</members>
+        <name>CustomObject</name>
+    </types>
+    <version>40.0</version>
+</Package>
