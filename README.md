@@ -1,2 +1,2 @@
-# document-generation-and-approval
-Generate document (PDF) and make an approval to specific profile
+# sfdc-google-drive-integration
+Generate document and upload it to google drive
